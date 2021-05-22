@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/mynotepad/static/css/main.a54d2a6d.chunk.css",
+    "main.js": "/mynotepad/static/js/main.40bc9eb4.chunk.js",
+    "main.js.map": "/mynotepad/static/js/main.40bc9eb4.chunk.js.map",
+    "runtime-main.js": "/mynotepad/static/js/runtime-main.7bf6ec8a.js",
+    "runtime-main.js.map": "/mynotepad/static/js/runtime-main.7bf6ec8a.js.map",
+    "static/js/2.218228f9.chunk.js": "/mynotepad/static/js/2.218228f9.chunk.js",
+    "static/js/2.218228f9.chunk.js.map": "/mynotepad/static/js/2.218228f9.chunk.js.map",
+    "index.html": "/mynotepad/index.html",
+    "static/css/main.a54d2a6d.chunk.css.map": "/mynotepad/static/css/main.a54d2a6d.chunk.css.map",
+    "static/js/2.218228f9.chunk.js.LICENSE.txt": "/mynotepad/static/js/2.218228f9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7bf6ec8a.js",
+    "static/js/2.218228f9.chunk.js",
+    "static/css/main.a54d2a6d.chunk.css",
+    "static/js/main.40bc9eb4.chunk.js"
+  ]
+}
